@@ -1,4 +1,4 @@
-# Data-Cleaning and Eploratory data analysis Project
+# Data-Cleaning and Exploratory data analysis Project
 
 # World Layoffs Dataset Analysis
 
